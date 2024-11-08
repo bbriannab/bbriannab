@@ -20,10 +20,10 @@ I'm a third-year student at Texas A&M University pursuing a BA Computer Science 
 
 
 ## Interests 👍
-- Software development
-- Artificial intelligence
-- Machine learning
-- Tennis & pickleball
+- Software Development
+- Artificial Intelligence
+- Machine Learning
+- Tennis & Pickleball
 - Travelling
 - Cooking & Baking
 ## Connect With Me 🤝
