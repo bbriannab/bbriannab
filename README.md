@@ -1,7 +1,7 @@
 # Hi, I'm Brianna 👋
 
 ## About Me 💬
-I'm a third-year student at Texas A&M University pursuing a BA Computer Science degree with minors in Neuroscience and Psychology. I am passionate about using coding to problem solve and create inventive solutions and am excited for the opportunity to use my skillset to work towards a better future.
+I'm a third-year student at Texas A&M University pursuing a BA Computer Science degree. I am passionate about using coding to problem solve and create inventive solutions and am excited for the opportunity to use my skill set to work towards a better future.
 
 <!--## What I'm Up To 🔍-->
 
